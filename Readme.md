@@ -1,10 +1,10 @@
 # Boxo Ring ( A Bosing Game For Fun )
 
-Boxo Ring is a simple yet engaging browser-based game that puts your reaction time and hand-eye coordination to the test. Created using the power of JavaScript, this game challenges players to click on randomly appearing rings within a designated box before they disappear. The goal is to score as many points as possible by clicking on the rings swiftly and accurately. With its minimalist design and addictive gameplay, Boxo Ring is a perfect way to unwind, improve your reflexes, and compete with friends for the highest score. Embark on the journey of mastering the art of swift clicking and enjoy the thrill of the Boxo Ring game!
+Boxo Ring is a simple yet engaging browser-based game that is played just with the keyboard keys where two players faced each other. Where one player needs to attack the other with two keys including one for attack and other to heal himself. Before getting fully discharged the player need to attack other player and discharged the other player and win the game 🥳 !
 
 ## Live Demonstration
 
-The nike shoes demo can be [viewed online here](https://thoughtflix.vercel.app/)
+The nike shoes demo can be [viewed online here](https://boxoring.vercel.app/)
 
 # Hi, I'm Adesh Salsundar ! 👋
 
