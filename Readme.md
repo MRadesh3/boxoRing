@@ -1,4 +1,4 @@
-# Boxo Ring ( A Bosing Game For Fun )
+# Boxo Ring ( A Boxing Game For Fun )
 
 Boxo Ring is a simple yet engaging browser-based game that is played just with the keyboard keys where two players faced each other. Where one player needs to attack the other with two keys including one for attack and other to heal himself. Before getting fully discharged the player need to attack other player and discharged the other player and win the game 🥳 !
 
